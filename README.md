@@ -1,6 +1,6 @@
 # HisYat
 
-Fund Analysis App
+Stock Analysis App
 
 ## Screenshots
 
