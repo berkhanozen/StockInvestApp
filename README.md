@@ -1,4 +1,4 @@
-# Fonyat
+# HisYat
 
 Fund Analysis App
 
